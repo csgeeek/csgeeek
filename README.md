@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaswanth820
 - 👀 I’m interested in solving problems and listnening to music.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning android development.
+- 💞️ I’m looking to collaborate on projects related to development(WEB/ANDROID).
 - 📫 How to reach me -- My mailID balajiyaswanth.v@gmail.com
 
 <!---
