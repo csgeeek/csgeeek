@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 💻 I regularly post answers on [stackoverflow](https://stackoverflow.com/users/12291279/csgeek)
 - 💞️ I’m looking to collaborate on projects related to development(WEB/ANDROID).
-- 📫 How to reach me - My Mail-ID: balajiyaswanth.v@gmail.com
+- 📫 How to reach me - balajiyaswanth.v@gmail.com
 
 <!---
 Yaswanth820/Yaswanth820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
