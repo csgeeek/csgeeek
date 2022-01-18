@@ -2,7 +2,7 @@
 - 👀 I love solving problems.
 - 🌱 I’m currently learning web development.
 - 💻 I regularly post answers on [stackoverflow](https://stackoverflow.com/users/12291279/csgeek)
-- 💞️ I’m looking to collaborate on projects related to development(WEB/ANDROID).
+- 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me - balajiyaswanth.v@gmail.com
 
 <!---
