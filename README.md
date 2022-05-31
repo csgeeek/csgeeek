@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaswanth820
 - 👀 I love solving problems.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m interested in web development and competitive programming.
 - 💻 I regularly post answers on [stackoverflow](https://stackoverflow.com/users/12291279/csgeek)
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 How to reach me - balajiyaswanth.v@gmail.com
