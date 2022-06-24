@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csg33k
-- 👀 I love solving problems and learning new tech📚.
+- 👀 I love to learn 📚 and experiment 🚀.
 - 🌱 I’m interested in web development and competitive programming.
 - 💻 I regularly post answers on [stackoverflow](https://stackoverflow.com/users/12291279/csgeek)
 - 💞️ I’m looking to collaborate on projects related to any domain😁🤹🏻‍♀️.
