@@ -3,7 +3,7 @@
 - 🌱 I’m interested in web development and competitive programming.
 - 💻 I regularly post answers on [stackoverflow](https://stackoverflow.com/users/12291279/csgeek)
 - 💞️ I’m looking to collaborate on projects related to any domain😁🤹🏻‍♀️.
-- 📫 How to reach me - balajiyaswanth.v@gmail.com, - [Linkedin](https://www.linkedin.com/in/balaji-yaswanth/)
+- 📫 How to reach me - balajiyaswanth.v@gmail.com, - [Linkedin](https://in.linkedin.com/in/balaji-yaswanth)
 
 Live🔥, Learn📚, Experiment🧪
 <!---
