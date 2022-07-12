@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csg33k
+- 👋 Hi, I’m @csgeek
 - 👀 I love to learn 📚 and apply 🚀.
 - 🌱 I’m interested in web development and competitive programming.
 - 💻 I regularly post answers on [stackoverflow](https://stackoverflow.com/users/12291279/csgeek)
