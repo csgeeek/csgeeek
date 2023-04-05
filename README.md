@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on projects related to any domain😁🤹🏻‍♀️.
 - 📝 Check out my blogs on [Medium](https://medium.com/@balajiyaswanth.v)🤗
 - 📫 How to reach me - balajiyaswanth.v@gmail.com, - [Linkedin](https://in.linkedin.com/in/balaji-yaswanth)
+- [Resume](https://drive.google.com/file/d/1E1J7EgsGTulVPtO-oSJ71Ld2Dl72huSD/view?usp=share_link)
 
 Live🔥, Learn📚, Experiment🧪
 <!---
