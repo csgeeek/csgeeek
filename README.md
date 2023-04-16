@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Yaswanth820&color=blueviolet&style=flat-square)
+
 - 👋 Hi, I’m @csgeek
 - 👀 I love to learn 📚 and apply 🚀.
 - 🌱 I’m interested in web development and competitive programming.
