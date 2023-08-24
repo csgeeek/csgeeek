@@ -6,7 +6,7 @@
 - 💻 I regularly post answers on [stackoverflow](https://stackoverflow.com/users/12291279/csgeek)
 - 💞️ I’m looking to collaborate on projects related to any domain😁🤹🏻‍♀️.
 - 📝 Check out my blogs on [Medium](https://medium.com/@balajiyaswanth.v)🤗
-- 💼 Wanna know more about my experience? [Resume](https://drive.google.com/file/d/1mlgWFoFtQwI6cg0l-tsxUvchraDL_aNR/view)
+- 💼 Wanna know more about my experience? [Resume](https://drive.google.com/drive/folders/1N_cRa01DbAr25eBvJfM-wlky_W-Cx0Yh)
 - 📫 How to reach me - balajiyaswanth.v@gmail.com, - [Portfolio](https://csgeeek.github.io/) - [Linkedin](https://in.linkedin.com/in/balaji-yaswanth)
 
 Live🔥, Learn📚, Experiment🧪
